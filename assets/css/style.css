@@ -1,0 +1,17 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: 'Josefin Sans', sans-serif;
+}
+/* ======= main section fetured bike color change ======== */
+.saturate { 
+    filter: saturate(3);
+}
+.huerotate {
+    filter: hue-rotate(180deg); 
+    }
+.grayscale { 
+
+    filter: grayscale(100%); 
+}
